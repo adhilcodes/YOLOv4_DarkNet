@@ -1,7 +1,7 @@
 # YOLOv4_DarkNet
 This repository contains python code to perform custom object detection using YOLOv4 algorithm using Darknet framework
 
->>The **yolov4_custom_object.ipynb** is the code to train yolov4 using darknet
+>>The **yolov4_custom_object_detection.ipynb** is the code to train yolov4 using darknet
 
 >>The folder **yolov4_test** contains the following data:
 1. obg.zip (annotated training image data)
