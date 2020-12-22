@@ -34,15 +34,15 @@ The Dataset for this project is collected and annotated phusically by ourself.
 We have used Google Colab to train the model 
 
 
-**| NVIDIA-SMI 455.45.01    Driver Version: 418.67       CUDA Version: 10.1     |**
+'''| NVIDIA-SMI 455.45.01    Driver Version: 418.67       CUDA Version: 10.1     |'''
 
-**| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |**
-**| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |**
+'''| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |'''
+'''| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |'''
                                                                        MIG M. 
 
-**|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |**
-**| N/A   57C    P8    10W /  70W |      0MiB / 15079MiB |      0%      Default |
-                                                                         ERR! |**
+'''|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |'''
+'''| N/A   57C    P8    10W /  70W |      0MiB / 15079MiB |      0%      Default |
+                                                                         ERR! |'''
 
 ## Our Research
  
