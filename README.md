@@ -25,10 +25,13 @@ Detect and classify two classes of Pineapples
 
 ## Dataset
 
+The Dataset for this project is collected and annotated by ourselves.
 ## Our Research
  
  Inorder to improve our  detection and classification of the classes we have performed some experiments on color augmentation parameters of YOLO V4 .
- We have adjusted the color augmentation parameters HUE, SATURATION and EXPOSURE and trained the YOLO V4 and analyzed the results
+ We have adjusted the color augmentation parameters **HUE**, **SATURATION** and **EXPOSURE** and trained the YOLO V4 and analyzed the results
+ 
+ Checkout this to know  moreabout the color augmentation parameters that we have experimented : [**color augmentation **](https://www.ccoderun.ca/darkmark/DataAugmentationColour.html)
  
  ![](map.jpg)
  
