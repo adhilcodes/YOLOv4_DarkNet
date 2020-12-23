@@ -35,7 +35,7 @@ Detect and classify two classes of Pineapples
 
 ## Dataset
 
-The Dataset for this project is collected and annotated phusically by ourself.
+The Dataset for this project is collected and annotated physically by ourself.
 
 ## Hardware
 
