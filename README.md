@@ -56,7 +56,7 @@ We have used Google Colab to train the model
   - Inorder to improve our  detection and classification perfomance of the model we have performed some experiments on color augmentation parameters of YOLO V4 .
  We have adjusted the color augmentation parameters **HUE**, **SATURATION** and **EXPOSURE** and trained the YOLO V4 and analyzed the results .
  
-  - `Checkout this to know  moreabout the color augmentation parameters that we have experimented` : [**Color Augmentation **](https://www.ccoderun.ca/darkmark/DataAugmentationColour.html)
+  - `Checkout this to know  more about the color augmentation parameters that we have experimented` : [Color Augmentation ](https://www.ccoderun.ca/darkmark/DataAugmentationColour.html)
  
  ![](map.jpg)
  
