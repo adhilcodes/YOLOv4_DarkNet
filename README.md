@@ -1,6 +1,6 @@
 # YOLOv4_DarkNet
 
- - This is a project that I am working on, at NCRAI in collaboration with Kerala Agricultural University. I will be working on the machine learning part of the project. I have created an object detection model using Yolo V4 algorithm using Darkner framework .
+ - This is a project that I am working on, at NCRAI in collaboration with Kerala Agricultural University. I will be working on the machine learning part of the project. I have created an object detection model using Yolo V4 algorithm using Darknet framework .
 
  - You can download the **YOLO V4 paper** [here](https://arxiv.org/pdf/2004.10934)
  
